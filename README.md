@@ -1,1 +1,1 @@
-# Adivinhe-o-Numero
+Este é um código em C que representa um jogo desenvolvido por mim e minha equipe. O jogo consiste em adivinhar o número, onde são gerados números aleatórios e o jogador tem algumas chances para acertar. Ao inserir um número, o jogo fornece dicas sobre quantos dígitos estão corretos e quantos estão no lugar certo. A cada rodada, os números são gerados automaticamente e aleatoriamente, proporcionando pura diversão!
